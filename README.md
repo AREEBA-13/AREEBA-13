@@ -1,6 +1,26 @@
-# 💫 About Me:
-Building creative and functional digital experiences as a Computer Science student—exploring web development, interactive UI designs, and full-stack applications that solve real-world problems.<br>I am Currently Working on Innovative tech projects where ideas meet creativity—especially web apps, portfolio designs, and projects that combine aesthetics with functionality.<br>I am looking for help with Improving my professional growth—whether it’s refining my development skills, understanding industry practices, or learning how to scale projects into real-world opportunities.<br>My journey as a CS student, my projects, design ideas, or how I approach turning concepts into working digital solutions.<br>I enjoy blending creativity with code—whether it’s designing visually appealing interfaces or experimenting with new ideas to make projects stand out.
+# 💫 About Me
 
+- Building creative and functional digital experiences as a Computer Science student  
+- Exploring web development, interactive UI designs, and full-stack applications that solve real-world problems  
+
+- 🔭 I’m currently working on:
+  - Innovative tech projects where ideas meet creativity  
+  - Web apps, portfolio designs, and aesthetic + functional projects  
+
+- 🤝 I’m looking for help with:
+  - Improving my professional growth  
+  - Refining development skills  
+  - Understanding industry practices  
+  - Scaling projects into real-world opportunities  
+
+- 💬 Ask me about:
+  - My journey as a CS student  
+  - My projects and design ideas  
+  - Turning concepts into working digital solutions  
+
+- ✨ Fun fact:
+  - I enjoy blending creativity with code  
+  - I love designing visually appealing interfaces and experimenting with new ideas  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_areeba_arif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AREEBA ARIF) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areebaarif068@gmail.com) 
