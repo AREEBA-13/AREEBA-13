@@ -31,57 +31,96 @@
 
 ## ✦ About Me
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
 
-```typescript
-const areeba: Developer = {
-  pronouns   : "She / Her",
-  location   : "Kunjah, Gujrat, Pakistan 🇵🇰",
-  education  : "University of Gujrat 🎓",
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Girl Coding Illustration"/>
 
-  languages  : ["JavaScript", "TypeScript", "Python",
-                "C++", "C#", "Dart"],
+<br/><br/>
 
-  focus      : {
-    primary    : "Full Stack Web Development",
-    secondary  : "Mobile App Development",
-    exploring  : "Flutter & Firebase Ecosystem"
-  },
-
-  stack      : {
-    frontend : ["React", "Next.js", "TailwindCSS",
-                "Bootstrap", "HTML5", "CSS3"],
-    backend  : ["Node.js", "Express.js", ".NET", "Blazor"],
-    mobile   : ["Flutter", "Dart"],
-    database : ["Firebase", "MySQL"],
-    ai_tools : ["Scikit-Learn", "Pandas", "NumPy",
-                "Matplotlib"]
-  },
-
-  philosophy : "Blend creativity with code  🎨 → 💻",
-  superpower : "I design AND build the interfaces ✨"
-};
-```
-
-<br clear="right"/>
-
-<table border="0">
-  <tr>
-    <td>🔭</td><td><b>Building</b></td><td>Web apps, portfolios, and aesthetic + functional projects</td>
-  </tr>
-  <tr>
-    <td>🌱</td><td><b>Learning</b></td><td>Refining full-stack skills & real-world industry practices</td>
-  </tr>
-  <tr>
-    <td>💡</td><td><b>Passionate</b></td><td>Blending creativity with functional digital solutions</td>
-  </tr>
-  <tr>
-    <td>🤝</td><td><b>Open to</b></td><td>Collaborating on web, mobile & UI-driven projects</td>
-  </tr>
-  <tr>
-    <td>📫</td><td><b>Reach me</b></td><td><a href="mailto:areebaarif068@gmail.com">areebaarif068@gmail.com</a></td>
-  </tr>
+<!-- Info Cards Row 1 -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🌸_Name-Areeba%20Arif-FF6B9D?style=flat-square&labelColor=1a0a1a&color=FF6B9D"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/💜_Pronouns-She%20%2F%20Her-C44DEE?style=flat-square&labelColor=1a0a1a&color=C44DEE"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📍_Location-Gujrat%2C%20Pakistan-FF6B9D?style=flat-square&labelColor=1a0a1a&color=FF6B9D"/>
+</td>
+</tr>
 </table>
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="240">
+<img src="https://img.shields.io/badge/🎓_University-Uni%20of%20Gujrat-C44DEE?style=flat-square&labelColor=1a0a1a&color=C44DEE"/>
+</td>
+<td align="center" width="240">
+<img src="https://img.shields.io/badge/💻_Focus-Full%20Stack%20%26%20Mobile-FF6B9D?style=flat-square&labelColor=1a0a1a&color=FF6B9D"/>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- Highlight Cards -->
+<table border="0" cellpadding="8">
+<tr>
+
+<td align="center" width="180">
+<br/>
+<b>🔭 Building</b><br/><br/>
+<sub>Web apps, portfolios &<br/>aesthetic projects</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="180">
+<br/>
+<b>🌱 Learning</b><br/><br/>
+<sub>Full-stack skills &<br/>industry best practices</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="180">
+<br/>
+<b>💡 Passionate About</b><br/><br/>
+<sub>Blending creativity<br/>with clean code</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="180">
+<br/>
+<b>🤝 Open To</b><br/><br/>
+<sub>Web, Mobile &<br/>UI-driven collabs</sub>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- Languages spoken as pretty pills -->
+**◈ Languages I Speak**
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+<br/>
+
+> *🎨 → 💻 &nbsp; "I design visually appealing interfaces AND write the code for them!"*
+
+</div>
 
 <br/>
 
