@@ -5,19 +5,19 @@
 
 <!-- Typing SVG -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&width=750&lines=✦+Welcome+to+My+Digital+Space+✦;Building+Aesthetic+%26+Functional+Experiences;Full+Stack+·+Mobile+·+UI%2FUX;Turning+Creative+Ideas+into+Code;CS+Student+%40+University+of+Gujrat" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Space+%F0%9F%8C%B8;Building+Aesthetic+%26+Functional+Experiences;Full+Stack+%7C+Mobile+%7C+UI%2FUX;Turning+Creative+Ideas+into+Code;CS+Student+%40+University+of+Gujrat" alt="Typing Animation" />
 
 <br/>
 
 <!-- Status Badges -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=AREEBA-13&label=✦%20Profile%20Views&color=FF6B9D&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=AREEBA-13&label=Profile+Views&color=FF6B9D&style=for-the-badge" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/AREEBA-13?label=✦%20Followers&style=flat-square&color=C44DEE&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/AREEBA-13?label=Followers&style=for-the-badge&color=C44DEE&logo=github&logoColor=white" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/✦%20Available%20For-Hire-FF6B9D?style=flat-square" />
+<img src="https://img.shields.io/badge/Available%20For-Hire-FF6B9D?style=for-the-badge" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/✦%20Focus-Web%20%26%20Mobile-C44DEE?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-C44DEE?style=for-the-badge" />
 </p>
 
 </div>
@@ -29,11 +29,11 @@
 
 <br/>
 
-## ✦ About Me
+## ✨ About Me
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Girl Coding Illustration"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="380" alt="Girl Coding Illustration"/>
 
 <br/><br/>
 
@@ -41,7 +41,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/🌸_Name-Areeba%20Arif-FF6B9D?style=flat-square&labelColor=1a0a1a&color=FF6B9D"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%B8_Name-Areeba%20Arif-FF6B9D?style=flat-square&labelColor=1a0a1a&color=FF6B9D"/>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/💜_Pronouns-She%20%2F%20Her-C44DEE?style=flat-square&labelColor=1a0a1a&color=C44DEE"/>
@@ -129,7 +129,7 @@
 
 <br/>
 
-## ✦ Tech Stack & Expertise
+## ✨ Tech Stack & Expertise
 
 <div align="center">
 
@@ -185,7 +185,7 @@
 
 <br/>
 
-## ✦ GitHub Analytics
+## ✨ GitHub Analytics
 
 <div align="center">
 
@@ -194,7 +194,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AREEBA-13&custom_title=✦%20Contribution%20Activity&bg_color=0D0D0D&color=FF6B9D&line=C44DEE&point=FFFFFF&area_color=FF6B9D&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AREEBA-13&custom_title=🌸%20Contribution%20Activity&bg_color=0D0D0D&color=FF6B9D&line=C44DEE&point=FFFFFF&area_color=FF6B9D&area=true&hide_border=true" />
 
 <br/>
 
@@ -213,7 +213,7 @@
 
 <br/>
 
-## ✦ Featured Projects
+## ✨ Featured Projects
 
 <div align="center">
 
@@ -265,7 +265,7 @@ Design  : Elegant & Visually Appealing
 
 <br/>
 
-## ✦ Connect & Collaborate
+## ✨ Connect & Collaborate
 
 <div align="center">
 
@@ -302,7 +302,7 @@ Design  : Elegant & Visually Appealing
 
 <br/>
 
-## ✦ Goals & Focus
+## ✨ Goals & Focus
 
 <div align="center">
 
@@ -318,7 +318,7 @@ Design  : Elegant & Visually Appealing
 
 <br/>
 
-## ✦ Developer Wisdom
+## ✨ Developer Wisdom
 
 <div align="center">
 
@@ -339,7 +339,7 @@ Design  : Elegant & Visually Appealing
 
 <br/>
 
-### *✦ "Where creativity meets code, magic happens" ✦*
+### *🌸 "Where creativity meets code, magic happens" 🌸*
 
 <br/>
 
